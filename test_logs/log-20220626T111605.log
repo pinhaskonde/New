@@ -1,0 +1,3 @@
+11:16:07.834 [Test worker] INFO  pages.HomePage - Start method -->   
+11:16:09.191 [Test worker] INFO  pages.HomePage - Start method -->   
+11:16:09.244 [Test worker] INFO  pages.HomePage - 'wd.quit' - started!
